@@ -1,4 +1,4 @@
-### CryptoCurrency Tracker
+## `CryptoCurrency Tracker`
 A simple web application built with React to track cryptocurrency prices and market data.
 
 ## Description
