@@ -16,3 +16,5 @@ This project fetches data from the CoinGecko API to display a list of cryptocurr
 
 ## API Usage
 This project uses the CoinGecko API to fetch cryptocurrency data. Ensure you have an internet connection to fetch the latest data.
+
+live project link :https://cryptocurrancytracker.netlify.app/ 
